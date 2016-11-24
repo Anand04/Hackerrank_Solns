@@ -1,1 +1,4 @@
-# Hackerrank_Solns
+# Hackerrank_Solutions
+# Algorithms
+# Warmup
+Solutions to warmup problems in agorithms
