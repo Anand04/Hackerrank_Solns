@@ -1,8 +1,8 @@
-/* Copyright © Mr Gerallt G. Franke 2016 */
+/* Copyright Â© Mr Gerallt G. Franke 2016 */
 
 /* Author: Mr Gerallt G. Franke
-* Description: Hackerrank challenge - Insert a Node at the Tail of a Linked List
-* Date: 15/12/2016
+* Description: Hackerrank challenge - Insert a node at a specific position in a linked list
+* Date: 19/12/2016
 * Licence: For educational purposes only..
 *          All rights reserved to the author..
 *          For any queries contact me via email geralltf attt gmail doott com.
@@ -63,7 +63,7 @@
 **********************************************************  +  */
 
 /*
-Insert Node at the begining of a linked list
+Insert a node at a specific position in a linked list
 Initially head pointer argument could be NULL for empty list
 Node is defined as
 struct Node
